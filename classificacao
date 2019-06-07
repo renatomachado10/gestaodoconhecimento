@@ -3,6 +3,8 @@ Aluno: Renato Machado Neves
 
 Matrícula: 0050012586
 
+Modelo de Classificação
+
 In [3]:
 from sklearn.datasets import load_breast_cancer
 In [4]:
